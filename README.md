@@ -9,9 +9,8 @@ $ npm start
 
 Head over to https://vitejs.dev/ to learn more about using vite
 Screenshot of the random password generator I was able to come up with
-images/display.png
-https://github.com/Lornzyy/lornzyy.github.io/blob/main/design/screenshot.jpg.png
-D:\projects\javascript\scrimba\cobf545f9b110a9cb0447c60c\images\display.png
+[screenshot of the random password generator](images/display.png)
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
