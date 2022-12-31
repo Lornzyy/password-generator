@@ -1,4 +1,4 @@
-# cobf545f9b110a9cb0447c60c
+# Random Passsword Generator
 
 Quick start:
 
@@ -8,6 +8,10 @@ $ npm start
 ````
 
 Head over to https://vitejs.dev/ to learn more about using vite
+Screenshot of the random password generator I was able to come up with
+images/display.png
+https://github.com/Lornzyy/lornzyy.github.io/blob/main/design/screenshot.jpg.png
+D:\projects\javascript\scrimba\cobf545f9b110a9cb0447c60c\images\display.png
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
@@ -19,3 +23,5 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+
